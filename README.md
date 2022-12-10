@@ -1,7 +1,9 @@
 # Learning-python
-projects | #1 | #2 |
+projects | name |
 --- | --- | --- | 
-names | phonebook | online shop |
+01  | phone book |
+--- | --- | --- | 
+02  | online shop |
 # phone book
 this is a simple project like contacts application in mobile phone.
 you can add , remove and edit contacts in this project :)
