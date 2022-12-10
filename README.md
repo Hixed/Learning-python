@@ -2,7 +2,6 @@
 projects | name |
 --- | --- |  
 01  | phone book |
---- | --- |  
 02  | online shop |
 # phone book
 this is a simple project like contacts application in mobile phone.
